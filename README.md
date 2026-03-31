@@ -2,6 +2,16 @@
 
 机器人论文深度推文撰写技能包，为"Mbot具身智能实验室"打造专业级技术内容生产工具。
 
+## 快速安装
+
+```bash
+npx clawhub@latest install robot-paper-post
+```
+
+**ClawHub 地址**: https://clawhub.ai/skills/robot-paper-post
+
+**GitHub 地址**: https://github.com/Jessy-Huang/robot-paper-post
+
 ## 功能概述
 
 本 Skill 能够将机器人/具身智能领域的学术论文转化为结构化、硬核且易读的技术推文，具备以下核心能力：
@@ -188,4 +198,4 @@ RT-X 构建了百万级跨机构机器人数据集...
 
 ## 许可证
 
-本项目仅供 Mbot 具身智能实验室内部使用。
+本项目采用 [MIT License](LICENSE) 开源协议。
